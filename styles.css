@@ -1,0 +1,70 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+pre {
+    color: blueviolet;
+}
+
+* {
+    background-color: antiquewhite; 
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: black;
+    font-size: 35px;
+}
+
+strong {
+    color: brown;
+}
+
+mark {
+    background-color: rgb(red, green, blue);
+}
+
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+table {
+    border: 1px solid;
+    border-color: blue;
+    width: 30vw;
+}
+
+th {
+    border-bottom: 3px solid;
+    border-color: blue;
+    background-color: blueviolet;
+}
+
+td {
+    border: 1px solid;
+}
+
+dl {
+    border: 1px solid;
+}
+
+ol li {
+    list-style: upper-alpha;
+}
+
+ul {
+    list-style: square;
+}
+
+td:nth-child(even) {
+    background-color: cadetblue;
+}
+
+iframe {
+    width: 30vw;
+    height: 30vh;
+}
